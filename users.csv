@@ -1,0 +1,26 @@
+USER_ID,AGE,GENDER,JOB_PREFERENCES,MEMBERSHIP_LEVEL,PREFERRED_JOB_LOCATIONS
+user1,19,F,Sales Manager,Platinum,Los Angeles
+user2,44,M,Graphic Designer,Gold,Austin
+user3,61,F,Graphic Designer,Platinum,New York
+user4,64,M,DevOps Engineer,Silver,Seattle
+user5,52,F,UI/UX Designer,Gold,Los Angeles
+user6,20,F,Recruiter,Gold,Austin
+user7,60,M,Sales Manager,Bronze,Chicago
+user8,38,M,DevOps Engineer,Gold,Los Angeles
+user9,27,F,DevOps Engineer,Gold,New York
+user10,33,F,Program Manager,Bronze,New York
+user11,37,F,Graphic Designer,Silver,Houston
+user12,52,M,System Administrator,Bronze,Los Angeles
+user13,37,F,HR Manager,Platinum,New York
+user14,44,M,Business Analyst,Silver,Boston
+user15,40,F,Sales Manager,Gold,Boston
+user16,39,F,Software Engineer,Gold,Miami
+user17,18,M,UI/UX Designer,Platinum,Chicago
+user18,51,M,Graphic Designer,Bronze,New York
+user19,64,F,DevOps Engineer,Bronze,Chicago
+user20,23,F,Product Manager,Gold,San Francisco
+user21,32,M,Project Manager,Gold,New York
+user22,32,F,Data Scientist,Gold,San Francisco
+user23,57,M,Recruiter,Silver,Denver
+user24,27,F,DevOps Engineer,Platinum,Miami
+user25,32,F,Project Manager,Silver,Houston

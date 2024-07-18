@@ -1,0 +1,1001 @@
+USER_ID,ITEM_ID,EVENT_TYPE,TIMESTAMP,SESSION_ID,DEVICE_TYPE,LOCATION
+user13,job10,apply,1720972339,session7,desktop,Austin
+user18,job3,apply,1720407156,session85,mobile,New York
+user16,job4,apply,1720804612,session87,mobile,Austin
+user2,job4,click,1720192216,session31,desktop,San Francisco
+user13,job6,click,1720902170,session74,mobile,Seattle
+user10,job1,click,1720676327,session97,desktop,Austin
+user17,job8,apply,1720485502,session20,tablet,New York
+user22,job4,click,1720111874,session4,desktop,Denver
+user25,job7,apply,1720561165,session47,mobile,Miami
+user17,job1,click,1720785290,session5,desktop,Miami
+user9,job8,apply,1720439253,session82,mobile,Miami
+user19,job4,click,1720732102,session37,tablet,Los Angeles
+user3,job10,apply,1721030527,session87,mobile,Los Angeles
+user7,job2,apply,1720116426,session56,tablet,Boston
+user23,job10,apply,1720118012,session72,desktop,Chicago
+user10,job7,click,1720547690,session26,mobile,Houston
+user10,job3,click,1720450578,session62,mobile,Chicago
+user18,job10,click,1721003770,session51,mobile,Houston
+user20,job9,apply,1721094787,session47,mobile,Chicago
+user5,job2,click,1720135331,session58,tablet,Denver
+user14,job4,click,1720930379,session87,desktop,New York
+user3,job2,apply,1720336778,session9,desktop,Austin
+user10,job2,apply,1720815672,session8,mobile,Denver
+user25,job3,apply,1720377142,session15,tablet,San Francisco
+user21,job9,apply,1720238686,session75,desktop,Boston
+user16,job4,click,1720586392,session76,desktop,Los Angeles
+user17,job3,click,1721080225,session84,mobile,Miami
+user23,job10,click,1720963834,session89,tablet,Houston
+user15,job6,apply,1720358764,session87,desktop,Boston
+user7,job4,click,1720340085,session64,tablet,Seattle
+user25,job3,apply,1720305626,session40,mobile,Denver
+user17,job6,apply,1720466688,session3,desktop,Houston
+user5,job7,click,1720206503,session33,mobile,San Francisco
+user20,job7,click,1720115701,session67,mobile,Los Angeles
+user12,job9,click,1720816835,session87,mobile,Miami
+user2,job9,click,1720586974,session10,tablet,Seattle
+user6,job4,click,1720763506,session90,tablet,Austin
+user9,job8,click,1721071678,session91,desktop,San Francisco
+user7,job9,apply,1720400876,session51,mobile,Miami
+user9,job3,click,1720126811,session56,desktop,Seattle
+user22,job1,click,1720762007,session39,mobile,Houston
+user23,job10,apply,1720672159,session55,mobile,Houston
+user10,job9,click,1720481037,session4,tablet,Los Angeles
+user2,job1,click,1720244734,session94,desktop,Miami
+user12,job5,click,1720595677,session23,mobile,Chicago
+user3,job10,apply,1720597552,session45,tablet,Miami
+user6,job6,apply,1720915114,session16,desktop,Seattle
+user12,job4,apply,1720464772,session98,tablet,Boston
+user17,job5,apply,1720823360,session63,mobile,Houston
+user6,job3,click,1720315904,session63,mobile,Houston
+user10,job8,click,1720406235,session49,mobile,Austin
+user5,job4,apply,1720417919,session47,desktop,Houston
+user2,job4,apply,1720379264,session96,tablet,Chicago
+user4,job2,apply,1720858814,session59,tablet,New York
+user17,job2,apply,1720362051,session22,desktop,San Francisco
+user20,job7,apply,1720658124,session44,mobile,Boston
+user21,job5,click,1720336138,session83,desktop,Seattle
+user9,job7,apply,1720706233,session98,desktop,San Francisco
+user25,job8,apply,1720857766,session69,tablet,San Francisco
+user8,job5,click,1720324515,session63,tablet,Houston
+user17,job5,apply,1720693209,session2,tablet,San Francisco
+user25,job2,click,1720881274,session78,tablet,Austin
+user3,job4,apply,1720995523,session20,mobile,Miami
+user23,job4,click,1720264007,session75,desktop,Los Angeles
+user24,job3,click,1720268998,session16,tablet,Chicago
+user5,job6,apply,1720356254,session48,mobile,San Francisco
+user10,job10,click,1721004306,session68,desktop,Los Angeles
+user9,job2,apply,1720887758,session53,desktop,San Francisco
+user8,job6,apply,1720241786,session41,tablet,Seattle
+user23,job5,click,1720556501,session55,desktop,Miami
+user5,job10,click,1721043666,session65,desktop,Miami
+user11,job8,apply,1720440079,session35,mobile,Miami
+user2,job3,apply,1721033471,session87,tablet,New York
+user22,job1,click,1720864509,session28,mobile,Chicago
+user12,job2,click,1720176746,session56,desktop,Denver
+user5,job8,apply,1720881478,session81,desktop,Denver
+user4,job4,apply,1721077379,session16,tablet,San Francisco
+user16,job10,apply,1720282987,session35,tablet,Los Angeles
+user2,job3,apply,1720863634,session38,mobile,Austin
+user7,job4,apply,1720896350,session70,tablet,San Francisco
+user13,job5,click,1720543756,session14,tablet,San Francisco
+user1,job9,click,1720986508,session88,desktop,Austin
+user2,job10,apply,1720836657,session83,desktop,Austin
+user8,job6,click,1720439317,session67,desktop,Los Angeles
+user11,job9,apply,1720227204,session36,mobile,Chicago
+user7,job9,click,1720261371,session78,desktop,Boston
+user16,job6,apply,1720922565,session41,tablet,Houston
+user25,job8,click,1721014603,session20,mobile,Houston
+user22,job7,click,1721023973,session72,desktop,Denver
+user20,job7,apply,1721062357,session94,tablet,Seattle
+user24,job4,click,1720313762,session63,desktop,New York
+user22,job6,apply,1720720700,session15,tablet,Houston
+user2,job9,apply,1721011179,session99,mobile,Denver
+user15,job9,click,1720205743,session80,desktop,Houston
+user8,job9,click,1720575097,session3,mobile,Austin
+user11,job10,apply,1720693813,session96,desktop,Seattle
+user21,job7,click,1720921401,session54,desktop,Chicago
+user2,job7,apply,1720392589,session10,mobile,Miami
+user14,job8,click,1720860498,session58,desktop,Miami
+user17,job8,apply,1720232073,session83,mobile,Chicago
+user13,job1,apply,1720122089,session72,tablet,Austin
+user22,job7,apply,1720680321,session34,desktop,San Francisco
+user24,job1,apply,1721021430,session54,mobile,Denver
+user6,job5,click,1720618878,session67,desktop,Miami
+user11,job10,apply,1720516139,session16,tablet,Boston
+user13,job9,apply,1720904100,session81,desktop,Chicago
+user6,job9,apply,1720511186,session22,mobile,Austin
+user11,job3,apply,1720953573,session13,desktop,Los Angeles
+user15,job4,click,1720398803,session91,tablet,San Francisco
+user18,job8,apply,1720903482,session73,mobile,Chicago
+user10,job6,click,1720483943,session57,mobile,Seattle
+user21,job10,apply,1720253604,session75,desktop,Los Angeles
+user4,job7,click,1720174667,session40,mobile,Miami
+user18,job8,click,1721098227,session9,tablet,Seattle
+user10,job6,click,1720146581,session73,desktop,New York
+user9,job7,apply,1720421444,session6,desktop,Seattle
+user12,job10,click,1720212036,session14,desktop,San Francisco
+user25,job6,click,1720679621,session44,desktop,Seattle
+user25,job8,apply,1720398694,session65,desktop,San Francisco
+user7,job8,apply,1720622550,session28,tablet,New York
+user14,job8,click,1720859113,session55,tablet,San Francisco
+user18,job10,apply,1720197911,session86,mobile,Austin
+user17,job8,click,1720808731,session15,tablet,Denver
+user23,job3,apply,1721102055,session7,mobile,Miami
+user9,job8,apply,1720624983,session61,mobile,New York
+user20,job5,click,1720377663,session76,tablet,Boston
+user23,job5,apply,1720937306,session35,tablet,Miami
+user21,job1,apply,1720528661,session79,tablet,Miami
+user12,job2,apply,1721083464,session91,desktop,Los Angeles
+user10,job9,apply,1720771243,session45,tablet,Seattle
+user13,job1,apply,1720757931,session46,tablet,Houston
+user23,job10,click,1720575940,session14,tablet,Miami
+user2,job10,click,1720539685,session21,mobile,San Francisco
+user12,job8,click,1720704187,session22,mobile,Miami
+user13,job9,apply,1721001629,session32,mobile,Houston
+user11,job2,click,1720172864,session62,mobile,Miami
+user21,job7,click,1720496840,session76,tablet,Austin
+user11,job2,click,1720150894,session37,desktop,San Francisco
+user17,job4,click,1720750228,session74,tablet,Los Angeles
+user5,job5,apply,1720890979,session67,mobile,Houston
+user23,job8,apply,1720695528,session34,tablet,New York
+user19,job10,apply,1720826006,session60,desktop,San Francisco
+user11,job10,apply,1720506904,session53,mobile,Houston
+user1,job1,click,1720733292,session8,desktop,Seattle
+user3,job7,click,1720683347,session69,tablet,Los Angeles
+user24,job5,click,1720949702,session79,tablet,Seattle
+user9,job10,click,1720273603,session34,tablet,San Francisco
+user6,job8,click,1720398720,session28,desktop,Chicago
+user22,job4,click,1720380239,session21,tablet,Boston
+user19,job5,apply,1720204691,session64,mobile,Los Angeles
+user22,job2,apply,1720461291,session1,tablet,Houston
+user5,job2,click,1721083216,session80,desktop,Chicago
+user7,job9,apply,1720993037,session73,mobile,New York
+user8,job9,click,1720190062,session80,tablet,New York
+user13,job9,apply,1720215217,session25,mobile,Austin
+user8,job7,click,1720887002,session16,desktop,Los Angeles
+user21,job5,click,1720955955,session35,tablet,San Francisco
+user22,job5,click,1720760825,session79,desktop,New York
+user24,job10,click,1720164413,session69,tablet,San Francisco
+user7,job8,click,1720352161,session93,tablet,Seattle
+user11,job2,click,1721079444,session74,mobile,Seattle
+user5,job5,click,1720969595,session78,mobile,Miami
+user7,job9,click,1720718471,session12,desktop,Miami
+user3,job2,click,1720850717,session83,tablet,Chicago
+user3,job3,apply,1720435209,session11,mobile,Houston
+user7,job4,apply,1720115700,session45,tablet,Los Angeles
+user3,job8,apply,1720511021,session17,tablet,Boston
+user21,job7,apply,1720787442,session71,desktop,Los Angeles
+user23,job8,click,1720240270,session55,tablet,Boston
+user10,job1,click,1720925295,session4,mobile,New York
+user4,job5,apply,1720169535,session24,desktop,Austin
+user10,job10,click,1720391926,session67,mobile,Austin
+user23,job9,apply,1720440346,session97,tablet,Chicago
+user7,job5,click,1720575116,session78,desktop,New York
+user16,job1,apply,1720770373,session63,mobile,Seattle
+user2,job4,click,1720988093,session22,tablet,San Francisco
+user9,job4,click,1720283295,session62,mobile,New York
+user10,job7,click,1720977474,session77,mobile,Denver
+user10,job2,click,1720481209,session26,desktop,Chicago
+user19,job4,apply,1720450208,session4,desktop,Boston
+user10,job5,click,1720165907,session65,mobile,Boston
+user13,job2,click,1720887570,session33,desktop,Chicago
+user15,job8,apply,1720972912,session97,mobile,Miami
+user8,job6,apply,1720944475,session7,mobile,Seattle
+user12,job6,apply,1721079460,session70,desktop,Los Angeles
+user15,job7,apply,1720504755,session79,mobile,Boston
+user12,job7,apply,1720835791,session12,desktop,Boston
+user24,job8,apply,1720497239,session66,mobile,Chicago
+user7,job3,apply,1720795310,session11,mobile,Seattle
+user20,job6,click,1720685818,session23,mobile,Los Angeles
+user16,job1,click,1720402875,session80,mobile,Miami
+user15,job10,apply,1720563537,session20,mobile,Denver
+user24,job3,apply,1720261231,session10,desktop,Denver
+user5,job1,click,1720461358,session9,mobile,Denver
+user25,job3,click,1720811463,session8,desktop,Boston
+user2,job4,apply,1720191342,session70,mobile,Los Angeles
+user5,job10,click,1720925908,session87,desktop,Denver
+user19,job3,click,1721058791,session85,mobile,New York
+user19,job5,apply,1720976707,session45,desktop,Denver
+user5,job5,click,1720913530,session84,tablet,Boston
+user16,job7,click,1720967443,session80,mobile,Houston
+user10,job10,apply,1720115730,session69,mobile,Los Angeles
+user15,job7,apply,1720757335,session3,tablet,Seattle
+user16,job10,apply,1720614349,session97,tablet,Denver
+user4,job5,click,1720568390,session78,desktop,Denver
+user17,job9,apply,1721103909,session40,desktop,New York
+user20,job2,apply,1720570801,session3,mobile,San Francisco
+user15,job10,apply,1720356912,session8,mobile,Houston
+user5,job6,click,1720940280,session81,tablet,Denver
+user7,job8,apply,1720425716,session45,mobile,Seattle
+user19,job5,click,1720913800,session31,tablet,Denver
+user1,job7,click,1720874947,session2,mobile,Seattle
+user4,job6,apply,1720725561,session90,mobile,Chicago
+user24,job1,click,1720396858,session88,tablet,Boston
+user11,job7,click,1720459836,session49,desktop,Austin
+user10,job4,apply,1720122906,session19,mobile,Chicago
+user25,job6,apply,1720130505,session99,desktop,San Francisco
+user21,job3,click,1720504313,session27,mobile,Los Angeles
+user9,job7,apply,1721046210,session50,desktop,Chicago
+user9,job4,click,1720274399,session6,tablet,Seattle
+user10,job7,click,1720388542,session40,tablet,Chicago
+user14,job4,apply,1721044785,session90,mobile,Los Angeles
+user5,job6,apply,1720542387,session93,desktop,Los Angeles
+user6,job8,click,1720331372,session14,desktop,Los Angeles
+user2,job4,click,1720407375,session62,mobile,Seattle
+user6,job10,click,1720989018,session37,tablet,Chicago
+user5,job3,click,1720182543,session53,desktop,Los Angeles
+user4,job8,apply,1720799491,session33,mobile,New York
+user5,job8,click,1720399298,session13,tablet,Houston
+user12,job4,click,1720405922,session43,mobile,Miami
+user3,job10,apply,1720519607,session51,mobile,Miami
+user3,job2,click,1720198598,session63,mobile,Miami
+user22,job9,click,1720141729,session83,tablet,San Francisco
+user14,job2,apply,1720565865,session45,desktop,Austin
+user4,job3,click,1720802931,session88,tablet,Los Angeles
+user19,job6,apply,1721028636,session59,desktop,Austin
+user16,job10,apply,1720821230,session78,desktop,Los Angeles
+user23,job5,apply,1721036761,session2,tablet,Chicago
+user11,job3,click,1720129136,session29,mobile,New York
+user19,job5,click,1721084836,session42,mobile,San Francisco
+user18,job10,apply,1721101165,session23,tablet,Seattle
+user6,job9,apply,1721085014,session29,mobile,San Francisco
+user19,job4,apply,1720427533,session66,desktop,Austin
+user7,job10,apply,1720662908,session67,desktop,Miami
+user3,job9,click,1720542879,session89,tablet,Houston
+user14,job6,apply,1720558834,session56,tablet,Miami
+user18,job7,click,1720597822,session12,desktop,Boston
+user18,job10,click,1720981320,session21,mobile,Austin
+user12,job2,click,1720356750,session70,desktop,Denver
+user1,job3,apply,1720695894,session96,tablet,Houston
+user12,job8,click,1720719313,session51,desktop,Miami
+user12,job9,apply,1720956162,session49,tablet,New York
+user20,job9,apply,1720314940,session78,mobile,New York
+user17,job6,click,1720202281,session22,tablet,Los Angeles
+user22,job6,click,1720542516,session24,tablet,New York
+user9,job8,apply,1720832096,session84,desktop,New York
+user17,job10,apply,1720983752,session88,tablet,New York
+user20,job8,click,1720311200,session52,mobile,Miami
+user11,job9,apply,1721002304,session45,mobile,Houston
+user2,job9,apply,1720153440,session87,tablet,Seattle
+user18,job3,apply,1720389774,session45,desktop,Chicago
+user20,job6,click,1720452923,session73,desktop,Los Angeles
+user25,job8,apply,1720547106,session19,tablet,Seattle
+user17,job4,apply,1720368716,session44,desktop,Seattle
+user22,job1,apply,1720619125,session76,tablet,Denver
+user18,job1,apply,1720914872,session68,mobile,Boston
+user5,job8,click,1720471957,session74,mobile,Los Angeles
+user18,job9,apply,1720682911,session16,desktop,Seattle
+user25,job9,click,1720732774,session37,mobile,Chicago
+user20,job1,click,1720861767,session64,desktop,Los Angeles
+user1,job5,click,1721045695,session15,mobile,Boston
+user10,job6,apply,1720737161,session94,tablet,Chicago
+user25,job7,apply,1720156023,session79,desktop,Houston
+user6,job9,click,1720381734,session69,tablet,Miami
+user16,job3,apply,1720759893,session75,desktop,Denver
+user5,job4,apply,1720492125,session19,tablet,Denver
+user7,job8,click,1720934177,session19,desktop,Chicago
+user2,job5,apply,1720400113,session54,tablet,Austin
+user21,job5,click,1720121890,session74,tablet,San Francisco
+user22,job1,apply,1721110413,session55,desktop,Seattle
+user21,job4,click,1720480339,session78,mobile,Seattle
+user6,job9,apply,1720394299,session76,desktop,Boston
+user21,job4,click,1720714901,session79,desktop,Boston
+user16,job6,apply,1720914969,session43,desktop,Miami
+user17,job10,click,1720436499,session11,tablet,Los Angeles
+user24,job4,apply,1720311019,session29,tablet,New York
+user14,job7,click,1720809710,session47,desktop,Los Angeles
+user1,job9,apply,1720521946,session18,desktop,Chicago
+user22,job2,apply,1721054847,session81,tablet,Austin
+user8,job2,click,1720162670,session31,mobile,Miami
+user9,job3,click,1720231938,session16,tablet,New York
+user15,job2,apply,1720939107,session9,tablet,Denver
+user21,job5,click,1720502389,session92,mobile,Miami
+user24,job7,click,1720682591,session74,mobile,Los Angeles
+user21,job2,click,1720816102,session34,tablet,Houston
+user19,job7,click,1720437484,session72,mobile,Boston
+user10,job5,click,1720732277,session72,tablet,Chicago
+user5,job5,apply,1721000912,session78,tablet,Chicago
+user19,job2,apply,1720997638,session67,mobile,Los Angeles
+user25,job9,click,1720872758,session5,tablet,Denver
+user16,job7,click,1720923890,session99,tablet,Los Angeles
+user23,job2,click,1720374031,session57,tablet,Denver
+user20,job3,click,1720208454,session42,tablet,San Francisco
+user15,job5,click,1720995471,session53,desktop,Los Angeles
+user17,job8,click,1720659537,session32,tablet,Miami
+user18,job6,apply,1721093006,session28,mobile,New York
+user21,job2,click,1720826723,session54,mobile,Houston
+user5,job7,apply,1720579778,session64,desktop,Chicago
+user14,job8,click,1721102233,session47,mobile,Chicago
+user14,job6,click,1720565180,session41,desktop,New York
+user13,job6,apply,1720593603,session70,tablet,Los Angeles
+user13,job2,apply,1720718398,session34,tablet,Chicago
+user23,job3,click,1720263341,session27,desktop,Los Angeles
+user1,job5,apply,1720315953,session59,tablet,Seattle
+user13,job1,apply,1720736127,session28,desktop,Denver
+user23,job2,click,1720318454,session15,desktop,San Francisco
+user4,job9,click,1721042901,session72,tablet,Austin
+user6,job6,apply,1720511060,session47,desktop,Miami
+user7,job1,apply,1721040790,session51,desktop,Denver
+user4,job5,click,1721110042,session94,mobile,Seattle
+user2,job7,apply,1720540804,session36,desktop,Austin
+user10,job2,click,1720954344,session66,mobile,Miami
+user16,job6,click,1720928684,session39,tablet,Chicago
+user11,job3,click,1720275129,session89,tablet,Chicago
+user18,job2,apply,1720477849,session5,desktop,Miami
+user12,job10,click,1720975059,session2,mobile,Los Angeles
+user8,job8,apply,1721089538,session35,tablet,Miami
+user17,job4,apply,1720224421,session55,tablet,San Francisco
+user12,job6,click,1720386625,session84,desktop,Miami
+user10,job4,apply,1720965905,session1,tablet,New York
+user19,job2,apply,1720336348,session61,tablet,Houston
+user2,job7,apply,1720440576,session54,tablet,Miami
+user14,job9,click,1721091981,session21,mobile,Houston
+user19,job8,apply,1720145687,session65,tablet,Austin
+user17,job6,apply,1720750258,session87,desktop,Houston
+user21,job10,apply,1720200310,session77,mobile,Denver
+user23,job3,click,1721032836,session28,mobile,Miami
+user12,job2,click,1720794229,session35,tablet,Seattle
+user23,job8,apply,1720965741,session91,tablet,Seattle
+user4,job3,click,1720661782,session61,desktop,Chicago
+user18,job6,apply,1720706665,session58,tablet,Seattle
+user21,job7,apply,1720399721,session90,mobile,Seattle
+user22,job1,apply,1720621270,session66,tablet,Houston
+user10,job7,apply,1720773475,session49,tablet,Seattle
+user11,job8,apply,1720806603,session11,mobile,Miami
+user1,job6,apply,1720941730,session12,tablet,Austin
+user22,job2,click,1720602140,session17,mobile,Houston
+user18,job10,apply,1720720808,session71,mobile,San Francisco
+user18,job3,click,1721011016,session64,desktop,Denver
+user16,job4,apply,1721068524,session38,tablet,Los Angeles
+user24,job10,click,1720451376,session14,mobile,Miami
+user3,job10,click,1720720759,session24,desktop,Houston
+user20,job2,apply,1720682786,session46,desktop,Seattle
+user19,job8,click,1720382785,session32,mobile,Boston
+user13,job5,click,1721093102,session94,desktop,Miami
+user14,job7,apply,1720146505,session82,mobile,New York
+user11,job10,apply,1720733866,session31,desktop,Miami
+user4,job7,apply,1720183756,session65,tablet,Seattle
+user14,job7,apply,1720592946,session97,tablet,Los Angeles
+user10,job1,apply,1720558849,session82,desktop,Austin
+user19,job4,apply,1720576592,session51,mobile,Denver
+user18,job2,apply,1720938322,session33,tablet,San Francisco
+user18,job2,click,1720234897,session3,desktop,New York
+user4,job9,click,1720595572,session4,mobile,Miami
+user24,job2,click,1721035101,session68,mobile,Austin
+user4,job8,apply,1720623981,session83,desktop,New York
+user12,job5,click,1720338192,session62,desktop,Miami
+user18,job10,click,1720666138,session79,mobile,Seattle
+user3,job7,click,1720726891,session46,tablet,Seattle
+user21,job4,click,1720420468,session86,desktop,Los Angeles
+user22,job8,apply,1720266601,session52,desktop,Chicago
+user16,job1,click,1720922154,session47,tablet,Boston
+user17,job8,apply,1720210472,session23,tablet,Chicago
+user15,job9,click,1720844242,session32,mobile,Denver
+user18,job7,apply,1720874774,session82,tablet,Houston
+user25,job1,click,1720643040,session25,tablet,San Francisco
+user15,job1,click,1720559424,session52,mobile,Chicago
+user18,job10,apply,1720324902,session98,desktop,Seattle
+user18,job8,click,1720191705,session12,tablet,Houston
+user11,job2,apply,1720241067,session31,mobile,San Francisco
+user2,job8,apply,1720317994,session24,desktop,Austin
+user22,job5,apply,1720124915,session76,mobile,Los Angeles
+user3,job9,click,1720311290,session74,mobile,Miami
+user5,job4,apply,1720916411,session11,tablet,San Francisco
+user4,job4,click,1720837812,session94,mobile,Chicago
+user10,job6,click,1720949617,session22,desktop,Los Angeles
+user22,job9,apply,1720468706,session64,tablet,New York
+user18,job3,apply,1720359883,session73,desktop,Houston
+user15,job3,apply,1720955373,session42,mobile,Denver
+user17,job5,click,1720365724,session79,mobile,San Francisco
+user10,job10,click,1720894330,session87,mobile,Austin
+user9,job5,apply,1720362311,session54,tablet,San Francisco
+user13,job4,apply,1720246316,session28,desktop,Seattle
+user5,job4,apply,1720154715,session76,mobile,Austin
+user13,job5,apply,1720307354,session84,mobile,Austin
+user20,job2,click,1720614026,session85,mobile,San Francisco
+user24,job10,apply,1720438733,session86,mobile,Seattle
+user1,job6,apply,1720962744,session60,mobile,New York
+user8,job7,click,1720610322,session44,desktop,Austin
+user25,job9,click,1721105603,session67,desktop,Los Angeles
+user8,job8,apply,1720298061,session69,desktop,Houston
+user18,job8,click,1720917481,session11,mobile,Austin
+user17,job10,apply,1721097875,session98,tablet,Seattle
+user19,job3,apply,1720576556,session53,tablet,New York
+user23,job10,click,1720564564,session93,mobile,Los Angeles
+user5,job2,apply,1720994821,session87,tablet,Chicago
+user2,job7,click,1720719714,session93,mobile,Miami
+user20,job9,apply,1720194154,session55,desktop,Denver
+user2,job8,apply,1721048726,session100,desktop,Los Angeles
+user5,job3,click,1720633868,session76,desktop,Seattle
+user3,job10,click,1720549735,session8,desktop,Austin
+user20,job7,apply,1720716982,session80,desktop,Miami
+user2,job8,apply,1721110287,session49,mobile,New York
+user21,job1,click,1720492526,session57,mobile,New York
+user12,job8,click,1720942192,session29,tablet,Denver
+user12,job5,click,1720712628,session30,tablet,San Francisco
+user24,job4,apply,1720330418,session94,desktop,Seattle
+user11,job9,click,1720505861,session13,desktop,San Francisco
+user4,job6,apply,1720822678,session38,desktop,Miami
+user25,job8,apply,1720307001,session28,tablet,Denver
+user24,job9,click,1721007357,session20,mobile,San Francisco
+user18,job10,apply,1720968450,session52,tablet,Houston
+user19,job8,apply,1721034922,session22,mobile,Houston
+user6,job10,click,1720819510,session74,tablet,Miami
+user3,job10,click,1720197692,session47,tablet,Los Angeles
+user13,job7,apply,1720130969,session95,tablet,New York
+user22,job4,apply,1720492877,session6,mobile,Chicago
+user19,job5,click,1720925766,session65,tablet,Houston
+user11,job10,apply,1720202190,session32,tablet,Los Angeles
+user10,job2,apply,1720153726,session100,desktop,Boston
+user4,job3,apply,1720786610,session8,desktop,Boston
+user18,job9,apply,1720816240,session66,desktop,Denver
+user15,job5,click,1720417422,session72,tablet,Miami
+user24,job5,click,1720554911,session99,desktop,Houston
+user3,job2,apply,1720220736,session4,tablet,Houston
+user14,job2,click,1720490645,session100,tablet,Denver
+user10,job4,click,1720336064,session4,mobile,Boston
+user5,job2,apply,1720941673,session3,tablet,Miami
+user5,job5,apply,1720820623,session4,mobile,Los Angeles
+user21,job6,apply,1720243317,session75,mobile,New York
+user23,job3,apply,1720202939,session62,desktop,Houston
+user17,job7,apply,1720157256,session98,mobile,San Francisco
+user13,job5,click,1720894624,session80,tablet,Austin
+user6,job5,apply,1720142011,session22,tablet,Los Angeles
+user22,job4,apply,1720472358,session82,desktop,Austin
+user4,job8,apply,1720791187,session61,tablet,San Francisco
+user23,job5,click,1720565705,session23,tablet,Seattle
+user1,job8,apply,1720389832,session13,desktop,Houston
+user13,job3,click,1721066513,session63,desktop,San Francisco
+user7,job6,apply,1721105220,session95,mobile,Austin
+user1,job5,apply,1720578588,session100,desktop,Miami
+user3,job8,apply,1720279024,session8,desktop,New York
+user20,job1,click,1721013175,session19,desktop,Seattle
+user9,job1,apply,1720419257,session74,mobile,Seattle
+user13,job1,click,1720627961,session87,tablet,Denver
+user25,job4,click,1720981960,session61,desktop,Austin
+user5,job8,click,1720132705,session42,tablet,Chicago
+user25,job7,apply,1721042796,session16,tablet,Boston
+user17,job7,apply,1720391646,session11,mobile,Denver
+user9,job9,apply,1720325433,session52,tablet,Miami
+user18,job7,apply,1720449331,session21,desktop,Miami
+user3,job1,apply,1720672915,session43,tablet,Los Angeles
+user15,job8,apply,1720340197,session92,tablet,Boston
+user15,job10,apply,1721040230,session75,tablet,San Francisco
+user19,job4,apply,1720186241,session5,mobile,Houston
+user9,job7,apply,1720703804,session68,tablet,Boston
+user5,job8,apply,1720357304,session99,tablet,New York
+user9,job9,click,1720170291,session53,mobile,Boston
+user16,job2,click,1720207040,session92,tablet,Austin
+user10,job1,apply,1721001167,session46,desktop,Boston
+user1,job4,apply,1720697549,session53,mobile,Austin
+user3,job1,click,1721036288,session87,tablet,Austin
+user10,job9,click,1720290648,session7,desktop,Miami
+user17,job6,click,1720560016,session62,mobile,Chicago
+user8,job7,click,1720818257,session63,mobile,Miami
+user7,job10,apply,1720165638,session81,tablet,New York
+user13,job2,apply,1720320849,session41,desktop,Boston
+user22,job1,click,1720149478,session42,desktop,Seattle
+user19,job1,apply,1721052551,session78,mobile,Boston
+user17,job9,apply,1720825224,session74,tablet,San Francisco
+user10,job2,click,1720683010,session82,desktop,Seattle
+user8,job10,apply,1720305472,session97,tablet,Miami
+user4,job9,apply,1720628784,session80,desktop,Austin
+user2,job8,click,1720906248,session45,tablet,Seattle
+user18,job10,click,1720553940,session62,mobile,Denver
+user6,job3,click,1720899043,session72,desktop,Seattle
+user12,job7,apply,1720275618,session24,mobile,San Francisco
+user7,job4,apply,1720434963,session31,desktop,San Francisco
+user2,job3,apply,1720848076,session29,desktop,Denver
+user13,job3,click,1720110776,session50,desktop,Houston
+user3,job8,click,1720802867,session35,mobile,Los Angeles
+user25,job10,apply,1720373772,session90,desktop,Houston
+user11,job6,apply,1720650613,session45,tablet,Houston
+user25,job4,click,1720671973,session14,mobile,Chicago
+user21,job7,apply,1720313872,session67,desktop,Los Angeles
+user11,job4,apply,1720380281,session22,desktop,Miami
+user5,job4,apply,1720151150,session39,mobile,Boston
+user14,job10,apply,1720193440,session47,desktop,Seattle
+user9,job2,click,1720933034,session28,mobile,San Francisco
+user18,job8,apply,1720722068,session99,mobile,Houston
+user15,job6,click,1720844557,session34,desktop,Los Angeles
+user21,job4,apply,1720311419,session49,desktop,Miami
+user13,job5,click,1720238574,session56,desktop,Denver
+user21,job9,apply,1720206009,session32,desktop,San Francisco
+user1,job2,click,1720768565,session97,desktop,Seattle
+user23,job8,click,1720678759,session78,tablet,San Francisco
+user9,job1,apply,1720957740,session47,desktop,Denver
+user19,job5,apply,1720886654,session31,mobile,Seattle
+user18,job2,click,1720921682,session37,tablet,New York
+user21,job9,click,1721056408,session67,tablet,New York
+user13,job3,click,1720879684,session72,tablet,Austin
+user1,job2,click,1720428096,session64,desktop,New York
+user4,job1,apply,1720513964,session69,tablet,New York
+user20,job9,apply,1720404768,session95,mobile,Austin
+user16,job9,click,1720182238,session18,desktop,Denver
+user21,job8,click,1720220865,session30,mobile,Los Angeles
+user17,job8,click,1720902709,session60,desktop,Chicago
+user21,job4,apply,1721042424,session16,tablet,Los Angeles
+user3,job2,click,1720687234,session30,desktop,Seattle
+user6,job1,apply,1721092187,session5,tablet,New York
+user21,job4,click,1720905853,session90,mobile,New York
+user18,job8,apply,1720943566,session97,mobile,Boston
+user3,job10,apply,1720123067,session44,mobile,San Francisco
+user4,job5,click,1720323932,session36,desktop,Los Angeles
+user18,job4,apply,1720873602,session9,tablet,Austin
+user3,job2,click,1720673824,session73,desktop,Houston
+user16,job4,click,1721099653,session52,mobile,Miami
+user24,job8,click,1720528177,session80,tablet,Boston
+user12,job1,click,1721037903,session45,mobile,Houston
+user16,job6,apply,1720754084,session40,tablet,Boston
+user24,job2,apply,1720218473,session42,desktop,Seattle
+user1,job8,apply,1720910681,session21,desktop,New York
+user24,job1,apply,1720600656,session28,desktop,Boston
+user18,job7,apply,1720185367,session21,desktop,San Francisco
+user18,job5,click,1720886452,session53,desktop,Los Angeles
+user23,job5,click,1720683908,session22,mobile,Los Angeles
+user5,job8,click,1720766820,session85,mobile,Los Angeles
+user17,job1,click,1720986368,session75,tablet,San Francisco
+user23,job8,apply,1721025587,session63,desktop,New York
+user12,job1,click,1720462797,session83,desktop,Chicago
+user6,job7,click,1720488740,session3,desktop,Seattle
+user18,job1,click,1720681767,session31,mobile,Boston
+user17,job8,click,1720878629,session77,mobile,Seattle
+user6,job2,apply,1720235719,session63,mobile,Austin
+user1,job10,apply,1720770055,session69,desktop,Los Angeles
+user1,job1,click,1720789977,session59,tablet,Los Angeles
+user21,job8,click,1720157079,session94,desktop,Miami
+user8,job7,click,1720247943,session88,tablet,Houston
+user2,job1,apply,1720113952,session76,desktop,Houston
+user17,job2,apply,1720589455,session77,tablet,Miami
+user15,job6,apply,1720967948,session80,mobile,Boston
+user20,job5,click,1720866092,session98,tablet,Houston
+user18,job1,apply,1720663956,session6,mobile,New York
+user20,job2,click,1720508209,session63,desktop,Houston
+user11,job5,apply,1720817679,session34,desktop,Chicago
+user14,job5,apply,1720111411,session16,tablet,New York
+user17,job3,click,1721036379,session66,tablet,Seattle
+user23,job5,apply,1721089122,session84,tablet,Houston
+user8,job1,apply,1721008215,session44,tablet,New York
+user7,job1,apply,1720783943,session59,mobile,San Francisco
+user10,job1,click,1720543363,session99,mobile,Seattle
+user3,job9,click,1721002767,session59,mobile,Miami
+user9,job1,apply,1721023079,session9,mobile,Miami
+user20,job7,click,1721012375,session69,mobile,San Francisco
+user6,job6,click,1720728970,session12,tablet,New York
+user12,job5,apply,1720212612,session91,desktop,Houston
+user3,job1,apply,1720366819,session16,mobile,San Francisco
+user11,job7,click,1720151821,session92,mobile,Austin
+user15,job7,apply,1720971156,session7,mobile,Seattle
+user1,job6,click,1720963261,session35,mobile,San Francisco
+user1,job2,apply,1720877294,session34,tablet,Denver
+user3,job10,click,1720288393,session45,mobile,Los Angeles
+user18,job5,click,1720234873,session29,mobile,Seattle
+user24,job10,click,1720966113,session18,mobile,Chicago
+user18,job6,click,1720405719,session78,mobile,Denver
+user14,job3,click,1720961587,session41,tablet,Boston
+user21,job10,apply,1720536829,session100,desktop,Denver
+user1,job3,apply,1720161728,session31,tablet,Chicago
+user10,job6,apply,1721103819,session71,mobile,Denver
+user22,job7,click,1720532205,session43,desktop,New York
+user11,job3,apply,1720123305,session23,tablet,Denver
+user19,job4,apply,1720280555,session49,tablet,Denver
+user19,job7,apply,1720587586,session38,tablet,Denver
+user7,job8,apply,1720237253,session29,tablet,New York
+user3,job7,apply,1721066037,session89,desktop,Los Angeles
+user20,job7,click,1720333293,session27,tablet,Boston
+user13,job2,apply,1720988638,session74,mobile,Miami
+user7,job8,click,1720300006,session31,tablet,San Francisco
+user7,job3,click,1720810168,session25,mobile,Boston
+user2,job3,apply,1720134379,session28,mobile,Boston
+user25,job3,click,1720121305,session96,mobile,Los Angeles
+user3,job10,apply,1720654624,session51,desktop,San Francisco
+user10,job7,apply,1720429316,session9,mobile,Los Angeles
+user25,job7,click,1721020250,session85,mobile,Chicago
+user12,job8,apply,1720288134,session99,desktop,Denver
+user14,job5,click,1720608523,session75,desktop,Chicago
+user1,job8,apply,1720681442,session12,desktop,Chicago
+user9,job5,apply,1721090895,session86,desktop,Denver
+user13,job2,click,1720523294,session4,mobile,Austin
+user23,job7,click,1721092538,session87,tablet,Boston
+user19,job1,apply,1720831877,session9,mobile,Boston
+user23,job9,click,1720164323,session71,mobile,Houston
+user12,job6,apply,1720386119,session43,tablet,New York
+user1,job2,apply,1720762307,session15,tablet,New York
+user24,job7,apply,1720867258,session89,desktop,San Francisco
+user9,job9,click,1720130128,session17,desktop,Miami
+user7,job1,apply,1720225162,session55,tablet,Los Angeles
+user2,job6,click,1720279126,session3,mobile,Chicago
+user12,job7,click,1720744002,session27,tablet,Denver
+user16,job8,apply,1720984277,session44,desktop,New York
+user3,job7,apply,1721067423,session32,mobile,Los Angeles
+user12,job1,apply,1720899849,session38,tablet,Seattle
+user2,job3,click,1720151343,session50,tablet,Denver
+user22,job4,apply,1720719800,session25,tablet,Boston
+user24,job7,click,1720654717,session39,mobile,Chicago
+user24,job9,apply,1720736394,session85,mobile,Chicago
+user17,job5,apply,1720625214,session54,desktop,Houston
+user16,job4,apply,1720658394,session90,tablet,Austin
+user14,job7,click,1720277690,session42,desktop,Denver
+user9,job10,apply,1720848433,session49,desktop,Houston
+user13,job9,apply,1720800063,session10,tablet,Los Angeles
+user23,job7,apply,1720507350,session47,desktop,San Francisco
+user1,job1,click,1720446829,session72,desktop,San Francisco
+user24,job8,apply,1720469868,session39,desktop,Boston
+user18,job7,apply,1720288164,session82,mobile,Austin
+user5,job9,apply,1720836363,session55,mobile,Denver
+user15,job2,click,1720544518,session63,desktop,Boston
+user20,job5,click,1720659922,session54,desktop,Miami
+user5,job1,click,1720395748,session83,tablet,Los Angeles
+user9,job5,apply,1720337273,session55,mobile,Houston
+user9,job10,apply,1720513990,session7,tablet,Miami
+user9,job7,click,1721077324,session76,tablet,Denver
+user10,job6,apply,1720796938,session70,desktop,Houston
+user7,job7,apply,1720886795,session80,mobile,Chicago
+user13,job6,apply,1721076250,session65,desktop,Austin
+user8,job6,click,1720796072,session71,tablet,Chicago
+user14,job6,apply,1720843688,session99,mobile,Austin
+user12,job5,click,1720894589,session93,tablet,New York
+user3,job10,click,1720564905,session29,tablet,Seattle
+user21,job9,click,1720207783,session43,desktop,Houston
+user22,job9,click,1720223877,session22,desktop,Austin
+user15,job9,click,1720601940,session51,tablet,Los Angeles
+user22,job9,apply,1720366963,session46,tablet,Austin
+user5,job10,apply,1720497271,session65,tablet,Houston
+user25,job5,apply,1720614694,session18,tablet,Austin
+user15,job7,apply,1720973590,session33,tablet,San Francisco
+user21,job3,click,1720921133,session16,desktop,San Francisco
+user21,job8,click,1720777678,session39,desktop,Los Angeles
+user7,job8,click,1721013025,session38,mobile,Austin
+user1,job8,click,1720918753,session69,desktop,Chicago
+user11,job3,click,1720615455,session8,mobile,Boston
+user23,job9,click,1720822623,session45,mobile,Seattle
+user23,job6,click,1720818639,session83,desktop,Seattle
+user3,job9,apply,1721036385,session24,mobile,San Francisco
+user17,job9,apply,1720933824,session95,tablet,Denver
+user19,job1,apply,1720647807,session70,mobile,Miami
+user17,job2,apply,1720468054,session100,desktop,Austin
+user9,job2,apply,1720184877,session58,desktop,Austin
+user13,job3,click,1720911665,session48,mobile,Los Angeles
+user4,job9,apply,1720414693,session44,desktop,Denver
+user6,job5,click,1720234435,session73,mobile,Denver
+user2,job5,apply,1720261769,session70,tablet,San Francisco
+user19,job9,apply,1720205487,session88,desktop,San Francisco
+user5,job10,click,1720198640,session60,tablet,New York
+user5,job3,apply,1720639244,session88,mobile,Miami
+user23,job5,apply,1720794350,session97,mobile,Denver
+user18,job6,apply,1720452574,session46,mobile,Houston
+user8,job2,click,1720679500,session25,desktop,Houston
+user18,job9,apply,1720180134,session10,tablet,Miami
+user3,job7,apply,1721099338,session60,desktop,San Francisco
+user25,job7,apply,1720880711,session98,desktop,Miami
+user13,job3,click,1721085722,session72,tablet,Los Angeles
+user21,job9,click,1720416054,session49,desktop,Houston
+user15,job3,apply,1720220144,session77,tablet,Austin
+user24,job9,click,1720739212,session26,desktop,Chicago
+user23,job10,apply,1721025811,session64,tablet,Boston
+user19,job7,apply,1720929908,session4,mobile,Boston
+user9,job1,click,1720644521,session12,mobile,Denver
+user19,job3,apply,1720732637,session25,tablet,San Francisco
+user18,job2,apply,1720919919,session33,mobile,Los Angeles
+user1,job5,click,1721005563,session22,mobile,Houston
+user9,job3,click,1720567668,session82,mobile,Los Angeles
+user16,job4,apply,1720843035,session39,desktop,Austin
+user15,job5,click,1720547798,session3,desktop,Austin
+user13,job5,click,1720585267,session67,desktop,Los Angeles
+user5,job9,click,1720618513,session56,tablet,Miami
+user6,job1,click,1720290507,session51,tablet,Boston
+user17,job5,apply,1721090824,session41,desktop,Houston
+user12,job5,apply,1720554208,session27,tablet,Miami
+user8,job6,apply,1720335497,session26,tablet,Seattle
+user25,job10,click,1720156203,session48,desktop,Seattle
+user13,job5,apply,1720219955,session97,mobile,Seattle
+user14,job4,click,1720213684,session60,mobile,San Francisco
+user23,job3,apply,1720150959,session71,tablet,Boston
+user18,job10,click,1721019798,session61,tablet,San Francisco
+user16,job8,apply,1720937924,session91,desktop,Miami
+user8,job9,apply,1720883045,session83,tablet,Denver
+user12,job9,click,1720731790,session17,tablet,Chicago
+user21,job3,click,1720853535,session99,desktop,Miami
+user7,job9,click,1720805313,session56,mobile,Seattle
+user25,job10,click,1720597305,session31,mobile,Houston
+user3,job3,click,1720212125,session69,tablet,Seattle
+user5,job8,click,1720710425,session55,mobile,New York
+user14,job4,apply,1720912819,session70,mobile,Denver
+user16,job1,apply,1720820148,session44,tablet,New York
+user21,job9,click,1720307153,session5,desktop,Denver
+user8,job6,click,1720457424,session15,tablet,Austin
+user25,job4,click,1721055802,session46,mobile,Denver
+user14,job2,apply,1720903635,session48,tablet,New York
+user18,job2,click,1720972218,session43,tablet,San Francisco
+user10,job3,apply,1720118707,session14,desktop,Seattle
+user15,job6,click,1720225129,session50,desktop,Houston
+user13,job4,click,1720510425,session40,mobile,Los Angeles
+user17,job6,apply,1720296320,session41,mobile,New York
+user7,job9,click,1720705214,session41,desktop,San Francisco
+user10,job3,apply,1720397698,session61,tablet,New York
+user20,job6,click,1720459297,session42,desktop,Chicago
+user8,job9,apply,1720557364,session74,desktop,Austin
+user8,job8,click,1720525571,session34,tablet,San Francisco
+user18,job1,click,1720353694,session1,desktop,Boston
+user18,job6,apply,1720240176,session81,desktop,New York
+user9,job1,apply,1721019962,session54,desktop,Miami
+user12,job2,click,1720804060,session33,mobile,New York
+user5,job6,apply,1720700563,session2,desktop,San Francisco
+user6,job9,click,1720133610,session23,mobile,Los Angeles
+user16,job2,apply,1720587090,session4,mobile,Miami
+user20,job5,apply,1720546429,session4,desktop,Houston
+user16,job5,apply,1720884512,session87,desktop,New York
+user25,job6,apply,1720891439,session57,mobile,Miami
+user21,job5,click,1720479718,session84,mobile,San Francisco
+user15,job1,click,1721047815,session69,tablet,Miami
+user6,job8,click,1720151682,session85,desktop,Houston
+user22,job6,apply,1721026999,session49,mobile,New York
+user25,job4,click,1720286368,session56,tablet,Chicago
+user3,job5,apply,1720489666,session69,tablet,Seattle
+user21,job7,apply,1720149151,session99,mobile,New York
+user3,job10,apply,1720161368,session98,desktop,Chicago
+user22,job6,click,1720986028,session80,desktop,New York
+user22,job5,apply,1720653354,session59,desktop,Chicago
+user24,job5,click,1720987312,session55,desktop,Miami
+user18,job3,apply,1720698083,session37,tablet,Houston
+user7,job8,click,1721107506,session35,mobile,Denver
+user14,job5,apply,1720319735,session40,desktop,Houston
+user18,job9,click,1720201429,session46,tablet,New York
+user9,job1,apply,1721000573,session83,mobile,Miami
+user4,job7,click,1720546522,session97,mobile,Los Angeles
+user19,job1,apply,1720120261,session5,mobile,Miami
+user1,job9,click,1721002185,session25,tablet,Austin
+user25,job8,click,1720979077,session18,tablet,Los Angeles
+user17,job7,click,1720374020,session39,desktop,Chicago
+user23,job2,apply,1720428718,session88,tablet,Boston
+user13,job3,apply,1720417846,session92,desktop,Austin
+user8,job2,apply,1720373056,session59,tablet,Miami
+user18,job6,click,1720504974,session35,desktop,Austin
+user5,job6,click,1720795305,session13,desktop,Houston
+user6,job2,click,1720635653,session4,mobile,Chicago
+user13,job4,click,1720541994,session59,mobile,San Francisco
+user20,job5,apply,1720167335,session45,desktop,Chicago
+user19,job2,apply,1720847894,session65,tablet,Austin
+user1,job8,apply,1720815291,session34,tablet,Miami
+user4,job3,click,1720301177,session91,desktop,Seattle
+user6,job3,apply,1720365897,session50,tablet,Seattle
+user18,job6,apply,1720372074,session10,mobile,Seattle
+user12,job1,click,1720322429,session83,desktop,Houston
+user20,job8,click,1720118010,session45,mobile,San Francisco
+user20,job1,apply,1720847816,session17,desktop,San Francisco
+user13,job6,click,1720297482,session39,desktop,Houston
+user13,job3,click,1720693556,session29,tablet,Austin
+user13,job3,click,1720117306,session26,tablet,Denver
+user22,job2,click,1720760531,session47,mobile,Austin
+user19,job1,click,1720757053,session58,desktop,San Francisco
+user25,job9,apply,1720881821,session12,tablet,Houston
+user10,job1,apply,1720127866,session30,mobile,Seattle
+user22,job9,apply,1721090680,session24,mobile,Seattle
+user5,job4,apply,1720262678,session25,desktop,New York
+user10,job10,click,1720315187,session75,tablet,Chicago
+user15,job7,click,1720854240,session30,mobile,Boston
+user23,job9,apply,1720552450,session45,desktop,San Francisco
+user12,job3,click,1720636530,session66,mobile,Seattle
+user9,job7,apply,1720833894,session78,tablet,Los Angeles
+user18,job5,apply,1720683082,session43,mobile,Seattle
+user8,job10,apply,1720589135,session67,desktop,Seattle
+user1,job2,click,1720828433,session47,mobile,San Francisco
+user5,job7,click,1720212640,session29,tablet,Chicago
+user15,job3,apply,1720807777,session40,mobile,Los Angeles
+user19,job9,click,1720385319,session75,desktop,New York
+user4,job6,click,1721067083,session89,tablet,Seattle
+user9,job5,click,1720657123,session100,mobile,San Francisco
+user21,job1,click,1720757886,session53,desktop,Austin
+user9,job4,click,1720282912,session63,desktop,Boston
+user17,job4,apply,1720846366,session18,tablet,Austin
+user8,job5,click,1720322746,session90,desktop,Los Angeles
+user16,job1,click,1720610329,session11,mobile,Houston
+user21,job10,click,1720501006,session7,mobile,Austin
+user11,job7,click,1720290273,session21,mobile,San Francisco
+user13,job5,click,1720880309,session42,desktop,Boston
+user14,job2,apply,1720778287,session1,tablet,Austin
+user12,job2,click,1720606953,session35,mobile,Austin
+user11,job5,apply,1720477463,session83,tablet,New York
+user24,job4,apply,1720818622,session86,mobile,Chicago
+user15,job8,apply,1720125273,session69,tablet,Boston
+user5,job3,apply,1720166786,session46,desktop,San Francisco
+user25,job5,click,1721020158,session64,mobile,Chicago
+user23,job6,click,1720346715,session68,tablet,Chicago
+user2,job1,apply,1720864671,session85,mobile,Denver
+user23,job6,click,1720976154,session89,tablet,San Francisco
+user3,job4,apply,1720963521,session4,tablet,San Francisco
+user23,job4,apply,1720856350,session7,tablet,Seattle
+user25,job10,apply,1720811440,session95,desktop,Houston
+user9,job6,click,1720576226,session90,tablet,Chicago
+user22,job9,apply,1720315077,session73,desktop,Austin
+user25,job5,click,1720499876,session53,desktop,New York
+user3,job9,apply,1720332989,session97,tablet,Miami
+user9,job7,click,1720817248,session71,tablet,Seattle
+user23,job3,apply,1720493106,session77,desktop,Chicago
+user8,job10,apply,1720489556,session71,desktop,Los Angeles
+user22,job1,click,1720960002,session64,desktop,Austin
+user9,job3,apply,1720768813,session45,tablet,Denver
+user14,job1,apply,1720637118,session3,desktop,Seattle
+user12,job9,click,1720345671,session80,tablet,Austin
+user15,job8,click,1720581820,session56,mobile,Denver
+user21,job2,click,1720373274,session5,tablet,Miami
+user3,job2,click,1721054386,session2,desktop,Boston
+user12,job1,apply,1720122456,session1,tablet,Denver
+user21,job3,click,1720479562,session2,desktop,Seattle
+user24,job2,apply,1721104677,session28,mobile,Boston
+user16,job3,click,1720782134,session6,mobile,Austin
+user14,job4,apply,1720155302,session40,mobile,Los Angeles
+user12,job5,click,1720675543,session2,desktop,New York
+user20,job3,apply,1720122621,session82,mobile,Los Angeles
+user13,job1,apply,1720728004,session48,tablet,Boston
+user23,job7,apply,1720325991,session28,tablet,Denver
+user6,job6,apply,1720687919,session100,tablet,Miami
+user18,job7,apply,1720721685,session49,tablet,Seattle
+user21,job1,click,1720491964,session49,tablet,Chicago
+user22,job6,apply,1720635219,session46,desktop,New York
+user1,job4,apply,1720440275,session38,mobile,Los Angeles
+user20,job5,apply,1720793225,session90,mobile,Miami
+user25,job1,click,1720352273,session18,tablet,Seattle
+user15,job2,apply,1720698512,session53,desktop,San Francisco
+user4,job1,click,1721055312,session13,tablet,New York
+user10,job8,click,1720995103,session26,tablet,Seattle
+user15,job6,click,1720586339,session99,tablet,Chicago
+user13,job3,apply,1720146195,session13,mobile,Austin
+user22,job9,apply,1720993704,session3,desktop,San Francisco
+user17,job10,click,1721056464,session70,tablet,San Francisco
+user18,job2,click,1720996144,session60,desktop,San Francisco
+user1,job3,click,1721076860,session7,mobile,Chicago
+user10,job10,apply,1720592859,session42,tablet,Boston
+user23,job10,click,1721025093,session4,mobile,Chicago
+user1,job8,click,1720987015,session42,desktop,Miami
+user13,job4,apply,1720333070,session47,desktop,Boston
+user18,job3,apply,1720229671,session54,mobile,Austin
+user19,job6,click,1720234633,session24,tablet,Austin
+user25,job10,click,1720753102,session94,tablet,Chicago
+user22,job5,click,1720722795,session36,mobile,Miami
+user7,job8,apply,1720199071,session62,tablet,Boston
+user19,job8,click,1721103700,session29,tablet,Houston
+user16,job10,click,1720284535,session43,desktop,New York
+user6,job10,apply,1720874222,session98,tablet,Austin
+user2,job7,click,1720829180,session26,desktop,San Francisco
+user25,job10,click,1720226473,session99,mobile,Denver
+user12,job4,click,1720254537,session49,tablet,Chicago
+user22,job3,apply,1720992880,session19,desktop,Los Angeles
+user13,job3,apply,1721014429,session23,desktop,Boston
+user11,job3,apply,1720971778,session18,tablet,Chicago
+user14,job9,apply,1720278410,session90,mobile,San Francisco
+user13,job2,click,1720793418,session51,desktop,Seattle
+user23,job8,apply,1720773979,session39,mobile,San Francisco
+user10,job2,click,1720323778,session11,mobile,San Francisco
+user7,job3,click,1720712161,session38,mobile,Houston
+user24,job8,click,1720827492,session38,mobile,San Francisco
+user25,job9,apply,1720752112,session62,desktop,Boston
+user4,job2,apply,1720225747,session40,tablet,Los Angeles
+user19,job5,click,1720151320,session50,tablet,New York
+user25,job10,apply,1720354576,session90,mobile,San Francisco
+user12,job6,apply,1720625873,session52,tablet,Houston
+user17,job2,click,1720187939,session6,desktop,Seattle
+user14,job10,apply,1720867155,session98,tablet,San Francisco
+user9,job5,apply,1720557434,session57,desktop,Austin
+user5,job10,click,1720776229,session32,tablet,New York
+user7,job6,click,1720377623,session19,desktop,Boston
+user21,job9,click,1721088370,session50,desktop,San Francisco
+user6,job3,click,1721109029,session68,mobile,Chicago
+user22,job3,apply,1720952462,session61,tablet,Denver
+user22,job2,apply,1720439964,session16,desktop,Boston
+user7,job3,apply,1720455184,session31,mobile,Seattle
+user2,job8,click,1720434968,session60,desktop,New York
+user4,job3,apply,1720774298,session11,mobile,New York
+user8,job4,apply,1720824325,session24,desktop,San Francisco
+user13,job6,apply,1720479470,session35,mobile,Austin
+user22,job7,click,1720507781,session28,tablet,New York
+user3,job9,click,1721066681,session15,mobile,Los Angeles
+user10,job9,click,1720463745,session46,desktop,Seattle
+user20,job5,apply,1720749833,session17,tablet,Denver
+user5,job2,click,1720426727,session99,tablet,Miami
+user17,job6,click,1721025597,session49,tablet,Chicago
+user11,job7,apply,1721036002,session43,mobile,Seattle
+user1,job6,apply,1720760837,session18,tablet,New York
+user7,job4,click,1721076434,session8,tablet,Boston
+user18,job5,click,1720279602,session15,mobile,Houston
+user10,job6,apply,1720514776,session29,mobile,Denver
+user16,job4,click,1720639252,session94,tablet,Los Angeles
+user15,job1,click,1720763374,session56,mobile,Seattle
+user8,job8,click,1721061756,session73,desktop,Miami
+user12,job2,click,1720896309,session13,desktop,Denver
+user4,job1,apply,1720217943,session32,tablet,San Francisco
+user6,job7,apply,1720384836,session41,tablet,Houston
+user11,job10,click,1720392888,session15,desktop,Boston
+user6,job9,apply,1720702403,session22,tablet,Boston
+user11,job10,click,1720666887,session38,mobile,Los Angeles
+user9,job4,apply,1720266558,session62,desktop,Chicago
+user18,job7,apply,1721089828,session42,tablet,Seattle
+user21,job6,apply,1720466802,session24,mobile,San Francisco
+user18,job8,click,1720166779,session96,desktop,Austin
+user19,job10,click,1720640977,session12,desktop,New York
+user4,job6,apply,1720238930,session19,tablet,Denver
+user9,job6,apply,1721102900,session90,desktop,Chicago
+user6,job2,apply,1720617909,session43,desktop,Boston
+user10,job7,click,1720896969,session78,tablet,Denver
+user3,job7,apply,1720419531,session78,tablet,Los Angeles
+user22,job5,click,1720373808,session6,tablet,New York
+user6,job6,apply,1720192215,session57,desktop,Miami
+user8,job2,click,1720721167,session38,mobile,Chicago
+user17,job2,click,1720546864,session4,desktop,Boston
+user8,job6,apply,1720424169,session30,desktop,Houston
+user14,job5,click,1720549925,session44,desktop,Denver
+user19,job8,apply,1721055548,session83,mobile,Chicago
+user3,job1,apply,1720476476,session45,tablet,Chicago
+user22,job2,click,1720628131,session43,desktop,Miami
+user23,job9,click,1720124736,session36,tablet,Houston
+user11,job9,apply,1720217743,session41,desktop,Seattle
+user16,job6,apply,1720463543,session6,tablet,Los Angeles
+user9,job7,click,1720988567,session65,mobile,Denver
+user10,job6,apply,1720622418,session54,desktop,Houston
+user24,job10,click,1720258756,session32,tablet,Seattle
+user21,job5,click,1720538819,session83,desktop,San Francisco
+user7,job4,click,1720413016,session23,mobile,New York
+user25,job1,apply,1720776807,session9,tablet,Houston
+user10,job6,apply,1720670411,session37,tablet,Boston
+user8,job3,apply,1720185057,session24,tablet,Los Angeles
+user6,job9,apply,1720898890,session4,mobile,Chicago
+user3,job10,click,1720158933,session87,mobile,Seattle
+user8,job5,apply,1720493350,session5,desktop,Austin
+user15,job6,click,1720343207,session85,desktop,Chicago
+user21,job9,click,1721014904,session34,tablet,Boston
+user25,job8,apply,1720542772,session44,mobile,San Francisco
+user18,job10,apply,1720899464,session11,mobile,Houston
+user23,job2,click,1721110199,session86,tablet,Seattle
+user16,job5,click,1720549117,session33,mobile,Los Angeles
+user2,job3,click,1720274020,session80,desktop,Seattle
+user17,job2,apply,1720269310,session1,mobile,Los Angeles
+user25,job4,click,1720640544,session86,tablet,Miami
+user10,job6,apply,1720736378,session87,tablet,Austin
+user3,job6,click,1720712176,session82,tablet,Boston
+user23,job1,apply,1720146181,session66,mobile,Denver
+user21,job3,click,1721021601,session72,desktop,Miami
+user21,job7,apply,1720303005,session60,desktop,Seattle
+user14,job1,apply,1720158455,session49,tablet,Austin
+user17,job9,apply,1720855865,session54,mobile,Houston
+user2,job10,apply,1720931430,session5,desktop,Miami
+user18,job8,click,1721015527,session63,desktop,Chicago
+user22,job7,apply,1720431666,session6,mobile,Boston
+user16,job2,apply,1720384045,session73,tablet,New York
+user11,job7,click,1720156827,session21,desktop,Los Angeles
+user9,job9,apply,1721074614,session59,desktop,Houston
+user17,job3,click,1720700222,session7,desktop,Denver
+user5,job3,apply,1720268813,session43,tablet,Austin
+user19,job4,apply,1720124700,session81,desktop,Miami
+user24,job1,click,1720779134,session77,desktop,Denver
+user19,job1,click,1720285470,session80,desktop,Denver
+user1,job3,click,1720854726,session26,tablet,Seattle
+user16,job1,click,1720764408,session61,tablet,New York
+user24,job3,click,1720436275,session44,tablet,Los Angeles
+user11,job2,click,1720862721,session42,desktop,Miami
+user14,job3,click,1720586178,session72,desktop,New York
+user6,job9,click,1720301999,session33,mobile,New York
+user16,job3,apply,1720968932,session72,mobile,Denver
+user6,job10,click,1720332391,session54,desktop,Seattle
+user8,job8,click,1720523299,session5,mobile,Houston
+user13,job8,click,1720783777,session30,desktop,Denver
+user6,job10,apply,1720798504,session31,tablet,Chicago
+user15,job4,apply,1720471763,session10,tablet,Miami
+user8,job1,apply,1720314048,session77,tablet,Chicago
+user14,job7,click,1720876033,session9,tablet,Seattle
+user19,job5,apply,1720923738,session65,tablet,Boston
+user15,job4,click,1720788150,session32,tablet,Miami
+user1,job2,apply,1720314688,session90,tablet,Los Angeles
+user17,job10,click,1720396333,session23,mobile,San Francisco
+user6,job9,click,1720767026,session6,mobile,Boston
+user12,job10,click,1720607816,session88,mobile,Boston
+user21,job8,click,1721045207,session89,mobile,Miami
+user14,job2,click,1720731476,session52,desktop,Austin
+user8,job3,click,1720235105,session25,desktop,New York
+user23,job3,click,1720315567,session26,mobile,New York
+user3,job10,click,1720475687,session14,desktop,Los Angeles
+user17,job6,click,1720285136,session13,mobile,New York
+user24,job4,apply,1721012913,session6,tablet,Chicago
+user1,job9,apply,1720670434,session12,mobile,Austin
+user4,job1,click,1720492701,session91,desktop,Los Angeles

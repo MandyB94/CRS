@@ -4,7 +4,7 @@ import boto3
 
 st.title("Content Recommendation App")
 
-user_input = st.text_input(label='User ID', placeholder="Enter User ID")
+user_input = st.text_input(label='User ID', placeholder="Enter User ID(user1/user2/user3.....)")
 
 
 personalize_runtime = boto3.client('personalize-runtime',region_name='us-east-2')

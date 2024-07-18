@@ -11,8 +11,8 @@ personalize_runtime = boto3.client('personalize-runtime',region_name='us-east-2'
 campaign_arn = 'arn:aws:personalize:us-east-2:654654468950:campaign/crs-campaign'
 
 
-user_interactions_file = './Dataset/user_interactions(new).csv'  
-users_file = './Dataset/users.csv' 
+user_interactions_file = 'user_interactions(new).csv'  
+users_file = 'users.csv' 
 
 if user_input:
     try:
